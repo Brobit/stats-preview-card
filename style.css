@@ -103,7 +103,7 @@ body {
 }
 
 .image {
-    background-image: url(/images/image-header-desktop.jpg);
+    background-image: url(./images/image-header-desktop.jpg);
     mix-blend-mode: multiply;
     background-size: cover;
     background-repeat: no-repeat;
